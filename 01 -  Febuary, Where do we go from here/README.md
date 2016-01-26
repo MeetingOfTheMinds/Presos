@@ -13,10 +13,10 @@ I have worked in everything from Startups, Non Profits, Mid Size, small business
 		3. I am self taught and have been working in the industry for about 15 years and have seen a large profession and evolution of things
 		4. I have a life outside of software, I am auto enthusiast and enjoy skiing
 	2. Contact Info
-		1. I am invested in your success and want you to reach out to me if you questions, technical or career wise. 
-		2. mike.roth@mxrss.com 
+		1. I am invested in your success and want you to reach out to me if you questions, technical or career wise.
+		2. mike.roth@mxrss.com
 		3. I am antisocial network so I don’t have one, but i am on linked-in (add me but make sure sabio is somewhere in your profile)
-	3. New Year, New Responsibilities 
+	3. New Year, New Responsibilities
 		1. Instructor
 			1. To provide clear instruction that provides a jump off point for the seminar attendees to investigate further
 			2. I will be clear and confident and well prepared
@@ -28,7 +28,7 @@ I have worked in everything from Startups, Non Profits, Mid Size, small business
 		1. Seminar Attendee Expectations
 			1. I expect people to be courteous of people’s viewpoints (including my own), even if they are at odds with your personal worldview
 			2. I expect people to speak up if they disagree with something I say
-			3. I expect feedback so that I can make sure you are getting value out of this seminar	
+			3. I expect feedback so that I can make sure you are getting value out of this seminar
 			4. I expect people to participate to get something out of this, so that our time is productive.
 			5. I expect if people feel that I am not doing a good or satisfactory job that makes it worth their time they get in contact with me.
 I expect that seminar attendees provide feedback with the monthly survey so we can better direct these discussios
@@ -43,7 +43,7 @@ I expect that seminar attendees provide feedback with the monthly survey so we c
 				4. Learning from failure
 				5. Tech Topic #1
 				6. Structure all the things
-				7. Tech Topic #2 
+				7. Tech Topic #2
 				8. The project lifecycle
 				9. Tech Topic #3
 				10. Whats Next and Holiday Fun.
@@ -58,10 +58,10 @@ I expect that seminar attendees provide feedback with the monthly survey so we c
 			1. So you guys have started the first step on your journey to being professional developers, and maybe even a few of you will rise to ranks like management, leadership or architecture.
 			2. Everyone in here should all be considered Jr level programmers and I was in your shoes once. So the question is where can i go from here?
 				1. Well there are a number of places you can go.
-					1. Lets say you start as a JR your next progression could be to Mid Level developer, but when will you know if you qualify as a mid-level. And thats a good question, more or less you will know you are a mid-level when the training wheels come off. If they are giving you work with little in the way of oversight and you are completing that work, then congrats! you are a midlevel. But with great power comes great responsibility. More so, maybe you are a Jr and you find out you don’t enjoy programming, well with knowing about how programmers work there are a large number of places you can go to. I know people who did not enjoy programming but enjoyed project management and found a niche doing that, or they were not terribly talented programmers but were great resource managers and became dev managers. Maybe you don’t presently enjoy C# but really enjoy SQL, there are a large number of career tracks that you can work towards. You could be a DBA, you could work on the devops side if you find you like to setup CI servers or your main itch that you like to scratch is tooling and automation. 
+					1. Lets say you start as a JR your next progression could be to Mid Level developer, but when will you know if you qualify as a mid-level. And thats a good question, more or less you will know you are a mid-level when the training wheels come off. If they are giving you work with little in the way of oversight and you are completing that work, then congrats! you are a midlevel. But with great power comes great responsibility. More so, maybe you are a Jr and you find out you don’t enjoy programming, well with knowing about how programmers work there are a large number of places you can go to. I know people who did not enjoy programming but enjoyed project management and found a niche doing that, or they were not terribly talented programmers but were great resource managers and became dev managers. Maybe you don’t presently enjoy C# but really enjoy SQL, there are a large number of career tracks that you can work towards. You could be a DBA, you could work on the devops side if you find you like to setup CI servers or your main itch that you like to scratch is tooling and automation.
 								1.	Great! its great to all have you here, and I want to commend you on completing your first step, however this is but the first step. If you thought the hardest part was starting, I got a bit of a reality check for you its not. In order to be successful in your career you have to dedicate yourself to a few things.
 					2. Learning (this is on and off the clock)
-						1. If you hope to advance you need to fill some of your time (not all, you will burn out) learning, and this doesn’t mean staying in your comfort zone. Part of climbing the ladder is finding things outside of your comfort zone. This could be things as technical as Data Science or could be things as simple as effective personal communication. There are tons of resources out there, code camps, seminars, online classes and a lot of them are free. Also, blogs are a good point of knowledge as well as academic courses and white papers. 
+						1. If you hope to advance you need to fill some of your time (not all, you will burn out) learning, and this doesn’t mean staying in your comfort zone. Part of climbing the ladder is finding things outside of your comfort zone. This could be things as technical as Data Science or could be things as simple as effective personal communication. There are tons of resources out there, code camps, seminars, online classes and a lot of them are free. Also, blogs are a good point of knowledge as well as academic courses and white papers.
 
 					2. Failure (USE FIRST ATTEMPT IN LIFE SLIDE)
 						1. You have to open to failure and trying again when you fail, its easy to do something when you know you will succeed but you will gain great success and go to a number of places when you try things that you don’t know if they will work out. However, it should be noted that this advice does not give you license to be reckless, making risky bets is OK if the penalty for it is low, making risky bets is not OK when the price of it could potentially be the company
@@ -72,13 +72,13 @@ I expect that seminar attendees provide feedback with the monthly survey so we c
 						   			1. Don't be affraid to fail, but be mindful, do not give yourself license to just fail but diligently try to overcome the problem without failing. If you do, learn from it
 									1. Failing comes with its own set of risks as well, if you constantly fail and never move the bar to getting something done, you will get fired. But as long as you learn from past mistakes this should not be a deterent.  
 					3. Networking
-						1. This is vitally important, the notion of building a network is an important aspect, you are all a bit ahead as sabio has provided you with opportunities to network within and outside, but building networks is key and your network can always be expanded and should be if possible. And i am  not just talking about recruiters, network with other programmers, ops folks, DBA’s ect. They will provide you access to opportunities. and may lead to job opportunities you never knew thought existed, my current gig at TMZ is a result of helping a JR . 
+						1. This is vitally important, the notion of building a network is an important aspect, you are all a bit ahead as sabio has provided you with opportunities to network within and outside, but building networks is key and your network can always be expanded and should be if possible. And i am  not just talking about recruiters, network with other programmers, ops folks, DBA’s ect. They will provide you access to opportunities. and may lead to job opportunities you never knew thought existed, my current gig at TMZ is a result of helping a JR .
 						2. Easy Places to Network
 							1. Code Camps
 							2. User Groups
 							3. Professional Confrences
 							4. Hackathons
-							5. Online Groups 
+							5. Online Groups
 					4. Dedication to the Craft
 						1. This means getting involved with projects outside of work, either paid or not paid, more experience yields better jobs. At first the work will not be that great, but you will find better projects as time moves on and as you learn to be more discerning.
 							1. Where to get involved?
@@ -98,20 +98,20 @@ I expect that seminar attendees provide feedback with the monthly survey so we c
 					2. Self Improvement and Being able to take constructive criticism
 						1. Not every day is going to be your best, some days you are going to stumble and sometimes people are going to rightfully call you out on problems, the difference between someone who goes places and a person that stagnates and does nothing is that they embrace the criticisms. And understand that they are fundamentally human and you can ALWAYS do better!
 						2. The point of criticism is to not reach perfection but to be "good enough" for the current situation or team.
-							1. Its better to have something good enough making you money then something that is a pipe dream that never see's the light of day, when we get to project management we can look at the triple constraint in depth. 
+							1. Its better to have something good enough making you money then something that is a pipe dream that never see's the light of day, when we get to project management we can look at the triple constraint in depth.
 						3. Getting FEEDBACK means that you will also be able to give feedback back.
-							1. When doing so remember the point is to build you up by tearing other people down. This doesn't work, you want to reach a goal to where everyone is great and contributes to the team on their own standard. And people should recognize this, alot of teams have problem with Ego's. I have been on a few of them and you will too.    
+							1. When doing so remember the point is *NOT* to build you up, by tearing other people down. This doesn't work, you want to reach a goal to where everyone is great and contributes to the team on their own standard. And people should recognize this, a lot of teams have problem with Ego's. I have been on a few of them and you will too.    
 					3. Working in a Team
-						1. This is a two part facet, being able to work on your own is great, but sometimes you will have to work in a group setting, and sometimes you will be the leader and sometimes you will be the team member. Its important to understand if you want to be great at leadership that you need to be a great team member. Working through conflicts happens when you allow other people to direct your movements, but that street works both ways so you need to learn when to follow and when to lead. (Lead, Follow or get out of the way!) 
+						1. This is a two part facet, being able to work on your own is great, but sometimes you will have to work in a group setting, and sometimes you will be the leader and sometimes you will be the team member. Its important to understand if you want to be great at leadership that you need to be a great team member. Working through conflicts happens when you allow other people to direct your movements, but that street works both ways so you need to learn when to follow and when to lead. (Lead, Follow or get out of the way!)
 							1. Happiness comes from when everyone has a modicum of respect for all members on the team. Even if its never mentioned
 							2. Harmony comes from when a team acts as a unit and provides value, disagreements may emerge but as long as they never get personal or move beyond the group, you will have harmony in your team.
-							3. Trust - Its important that over time you learn to trust people in your team. You can't and should not be at work everyday you need to have trust that people can figure your stuff out and that you left good instructions to "get it" 
-								1. It should also be said that no one can be a team of ONE there are other memebers on your team and you have to trust each persons skill. If you give and never get then you have a problem. 
+							3. Trust - Its important that over time you learn to trust people in your team. You can't and should not be at work everyday you need to have trust that people can figure your stuff out and that you left good instructions to "get it"
+								1. It should also be said that no one can be a team of ONE there are other memebers on your team and you have to trust each persons skill. If you give and never get then you have a problem.
 					4. Learning
-						1. Learning is a continual path that will yield rewards in the field and outside, everyday you learn. Its a inevitable 
+						1. Learning is a continual path that will yield rewards in the field and outside, everyday you learn. Its a inevitable
 The first way to get anywhere is to understand that it will be impossible to be an expert in all fields, you will need to specialize and become the best in your field, this is done through experimenting with different things and coming to the conclusion on what you want to do. I am  a particularly talented with automation and getting things working in harmony with each other, so i focus not he devops track. However, maybe you really like things like spreadsheets and making sure deadlines are checked off. (Project management may be an endeavor that will exist for you)
-							1. Caveats 
-								1. Sometimes learning means what works best with your strengths and what helps you rough out your weaknesses, don't be afraid to try things that you are not particulary strong in, but be mindful if you are over your head and you have a deadline looming. 
+							1. Caveats
+								1. Sometimes learning means what works best with your strengths and what helps you rough out your weaknesses, don't be afraid to try things that you are not particulary strong in, but be mindful if you are over your head and you have a deadline looming.
 								2. Learn also, when a road you have gone down is starting to turn into a money pit with regards to resources, for example if you are spending a long time doing something, chances are there may be a way to get it done eaiser and with less time. Don't feel like you have to comit to something if it is not working out, thats why (Joseph Priestley & Edward Nairne) invented the Erasure to "try again".  
 			3. Conclusion
 				1. 2016 is going to be a great year to get you to where you need to go, I hope that we will have a great journey.  	
