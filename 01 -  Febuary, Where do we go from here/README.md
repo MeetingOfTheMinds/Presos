@@ -40,15 +40,15 @@ I expect that seminar attendees provide feedback with the monthly survey so we c
 				1. Where do we go from here?
 				2. Its all about requirements and planning
 				3. Thinking computationally
-				4. Learning from failure
-				5. Tech Topic #1
+				4. Algorithims an Introduction
+				5. Algorithims In Time And Space
 				6. Structure all the things
-				7. Tech Topic #2
+				7. Tech Topic #1
 				8. The project lifecycle
-				9. Tech Topic #3
+				9. Tech Topic #2
 				10. Whats Next and Holiday Fun.
 		4. Lets start at, What have you completed?
-			1. I want to get to know each and every one of you, and I want to do that by first getting an idea of you are. I have introduced myself so I think before we go any further it is necessary for people to get involved a bit.
+			1. I want to get to know each and every one of you, and I want to do that by first getting an idea of who you are. I have introduced myself so I think before we go any further it is necessary for people to get involved a bit.
 			2. So lets all take a few moments, and I want every single person in this room to answer these questions?
 				1. Your name, and if you have one a nick name that you like to be called?
 				2. Your cohort number?
@@ -59,8 +59,15 @@ I expect that seminar attendees provide feedback with the monthly survey so we c
 			2. Everyone in here should all be considered Jr level programmers and I was in your shoes once. So the question is where can i go from here?
 				1. Well there are a number of places you can go.
 					1. Lets say you start as a JR your next progression could be to Mid Level developer, but when will you know if you qualify as a mid-level. And thats a good question, more or less you will know you are a mid-level when the training wheels come off. If they are giving you work with little in the way of oversight and you are completing that work, then congrats! you are a midlevel. But with great power comes great responsibility. More so, maybe you are a Jr and you find out you don’t enjoy programming, well with knowing about how programmers work there are a large number of places you can go to. I know people who did not enjoy programming but enjoyed project management and found a niche doing that, or they were not terribly talented programmers but were great resource managers and became dev managers. Maybe you don’t presently enjoy C# but really enjoy SQL, there are a large number of career tracks that you can work towards. You could be a DBA, you could work on the devops side if you find you like to setup CI servers or your main itch that you like to scratch is tooling and automation.
-								1.	Great! its great to all have you here, and I want to commend you on completing your first step, however this is but the first step. If you thought the hardest part was starting, I got a bit of a reality check for you its not. In order to be successful in your career you have to dedicate yourself to a few things.
-					2. Learning (this is on and off the clock)
+								1.	Great! its great to all have you here, and I want to commend you on completing your first step, however this is but the first step. If you thought the hardest part was starting, I got a bit of a reality check for you its not. In order to be successful in your career you have to dedicate yourself to a few things. [Family guy](https://www.youtube.com/watch?v=LXej_1-Mv38)
+
+			- FIRST STEP QUOTE ATTRIBUTION
+> Take the first step in faith. You don't have to see the whole staircase, just take the first step.
+>
+>Martin Luther King Jr., Let Nobody Turn Us Around:  Voices on Resistance, Reform, and Renewal an African American Anthology 
+					
+					
+				2. Learning (this is on and off the clock)
 						1. If you hope to advance you need to fill some of your time (not all, you will burn out) learning, and this doesn’t mean staying in your comfort zone. Part of climbing the ladder is finding things outside of your comfort zone. This could be things as technical as Data Science or could be things as simple as effective personal communication. There are tons of resources out there, code camps, seminars, online classes and a lot of them are free. Also, blogs are a good point of knowledge as well as academic courses and white papers.
 
 					2. Failure (USE FIRST ATTEMPT IN LIFE SLIDE)
